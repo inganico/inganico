@@ -1,6 +1,4 @@
-# <h1 align="center">Привет 👋, меня зовут Александр!</h1>
-
----
+<h1 align="center">Привет 👋, меня зовут Александр!</h1>
 
 ### Обо мне:
 
@@ -8,17 +6,13 @@
 
 ЦЕЛЬ: Найти позицию HTML-верстальщика в веб-студии, где я смогу применять свои навыки и опыт для создания качественных и привлекательных веб-сайтов.
 
-- :telescope: помогал ученикам школы HtmlAcademy - по вопросам верстки
+- :telescope: Помогал ученикам школы LoftSchool - по вопросам начальной верстки веб-сайтов.
 
 - :seedling: Завершил курсы по веб-разработке LoftSchool, HtmlAcademy, Frontend Block.
 
 - :zap: Прошел дополнительные курсы по Gulp, JavaScript, Grid.
 
 - :mailbox: Как связаться со мной:<div> [![Telegram Badge](https://img.shields.io/badge/-SeltDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SeltDev)</div>
-
----
-
-### 🤝 Социальные сети:
 
 ---
 
@@ -29,7 +23,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://webpack.js.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="40" /></a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+
+<!-- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
 
 ---
 
@@ -44,16 +39,15 @@
 
 <div style='margin-top: 20px'>
 
-| Курсы                                                           |       Дата        |
-| --------------------------------------------------------------- | :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| Курсы                                            |       Дата        |
+| ------------------------------------------------ | :---------------: |
+| itgid.info - курс JavaScript v2.0                | 03/2023 - 04/2023 |
+| itgid.info - HTML для JavaScript разработчиков   | 02/2023 - 03/2023 |
+| loftschool.com - Основы вёрстки сайтов           | 10/2021 - 01/2022 |
+| loftschool.com - Веб-разработка для начинающих   | 11/2021- 02/2022  |
+| loftschool.com - Комплексное обучение JavaScript | 01/2022 - 03/2022 |
+| stepik.org - Планировщик задач Gulp 4            | 08/2021 - 09/2021 |
+| frontendblok.com - Базовый курс 3.0 - Верстка    | 04/2021 - 07/2021 |
 
 ---
 
