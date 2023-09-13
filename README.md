@@ -20,6 +20,8 @@
 
 - :mailbox: Как связаться со мной:<div> [![Telegram Badge](https://img.shields.io/badge/-SeltDev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/SeltDev)</div>
 
+- Проекты на GitHub [Shop Table](https://github.com/inganico/table)
+
 ---
 
 ### 💻 Технологии:
